@@ -36,7 +36,7 @@ h3 {
 .hero {
   background-image: url(../img/hero.png);
   background-repeat: no-repeat;
-  background-position: top 167px right;
+  background-position: top 120px right;
   background-size: 45%;
   height: 100vh;
 }
